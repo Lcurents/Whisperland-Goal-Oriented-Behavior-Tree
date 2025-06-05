@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|c:\\pribadi\\game ai\\project\\whisper of the realm\\assets\\scripts\\mainmenu\\characterdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\characterdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|c:\\pribadi\\game ai\\project\\whisper of the realm\\assets\\scripts\\data\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\mainmenu\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\startmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\joystick pack\\scripts\\base\\joystickmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\joystick pack\\scripts\\base\\joystickmove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\movement\\agentanimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement\\agentanimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\goap\\actions\\idleaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\goap\\actions\\idleaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\goap\\actions\\pickupappleaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\goap\\actions\\pickupappleaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\goap\\sensors\\sensorcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\goap\\sensors\\sensorcollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\goap\\agent\\agentbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\goap\\agent\\agentbrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\bt\\pickupapplegoalbt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\bt\\pickupapplegoalbt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\bt\\plannernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\bt\\plannernode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\bt\\idlegoalbt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\bt\\idlegoalbt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\goap\\behaviors\\databehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\goap\\behaviors\\databehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\bt\\eatgoalbt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\bt\\eatgoalbt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\goap\\behaviors\\watermelonbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\goap\\behaviors\\watermelonbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\goap\\sensors\\applesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\goap\\sensors\\applesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\bt\\applesensorbt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\bt\\applesensorbt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\bt\\haveapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\bt\\haveapple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\goap\\behaviors\\applebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\goap\\behaviors\\applebehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\goap\\behaviors\\agentmovebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\goap\\behaviors\\agentmovebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\ai\\goap\\sensors\\idletargetsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai\\goap\\sensors\\idletargetsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\npc\\dialog\\npcdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\npc\\dialog\\npcdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\camera\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\assets\\scripts\\movement\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCBC6BF-CD27-92F9-F70C-4A064EBF4178}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharacterDataManager.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\MainMenu\\CharacterDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\CharacterDataManager.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\MainMenu\\CharacterDataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\CharacterDataManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:11:52.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\Data\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\PlayerData.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\Data\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T16:08:43.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgentAnimationController.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\Movement\\AgentAnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement\\AgentAnimationController.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\Movement\\AgentAnimationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement\\AgentAnimationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T06:22:37.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JoystickMove.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Joystick Pack\\Scripts\\Base\\JoystickMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Joystick Pack\\Scripts\\Base\\JoystickMove.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Joystick Pack\\Scripts\\Base\\JoystickMove.cs",
+              "RelativeToolTip": "Assets\\Joystick Pack\\Scripts\\Base\\JoystickMove.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:46:38.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PickupAppleGoalBT.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\BT\\PickupAppleGoalBT.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\BT\\PickupAppleGoalBT.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\BT\\PickupAppleGoalBT.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\BT\\PickupAppleGoalBT.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwHIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:37:11.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IdleGoalBT.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\BT\\IdleGoalBT.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\BT\\IdleGoalBT.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\BT\\IdleGoalBT.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\BT\\IdleGoalBT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:17:43.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgentBrain.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Agent\\AgentBrain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GOAP\\Agent\\AgentBrain.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Agent\\AgentBrain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GOAP\\Agent\\AgentBrain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:42:23.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SensorCollider.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Sensors\\SensorCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GOAP\\Sensors\\SensorCollider.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Sensors\\SensorCollider.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GOAP\\Sensors\\SensorCollider.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:54:32.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdleAction.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Actions\\IdleAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GOAP\\Actions\\IdleAction.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Actions\\IdleAction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GOAP\\Actions\\IdleAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:46:52.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartMenuController.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\MainMenu\\StartMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\StartMenuController.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\MainMenu\\StartMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\StartMenuController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowEoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:22:49.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EatGoalBT.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\BT\\EatGoalBT.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\BT\\EatGoalBT.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\BT\\EatGoalBT.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\BT\\EatGoalBT.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T15:32:09.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlannerNode.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\BT\\PlannerNode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\BT\\PlannerNode.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\BT\\PlannerNode.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\BT\\PlannerNode.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T15:38:59.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PickupAppleAction.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Actions\\PickupAppleAction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GOAP\\Actions\\PickupAppleAction.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Actions\\PickupAppleAction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GOAP\\Actions\\PickupAppleAction.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvx4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:41:00.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataBehavior.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Behaviors\\DataBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GOAP\\Behaviors\\DataBehavior.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Behaviors\\DataBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GOAP\\Behaviors\\DataBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:21:06.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HaveApple.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\BT\\HaveApple.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\BT\\HaveApple.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\BT\\HaveApple.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\BT\\HaveApple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:08:07.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppleSensor.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Sensors\\AppleSensor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GOAP\\Sensors\\AppleSensor.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Sensors\\AppleSensor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GOAP\\Sensors\\AppleSensor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:36:35.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WatermelonBehaviour.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Behaviors\\WatermelonBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GOAP\\Behaviors\\WatermelonBehaviour.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Behaviors\\WatermelonBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GOAP\\Behaviors\\WatermelonBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T11:33:25.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppleSensorBT.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\BT\\AppleSensorBT.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\BT\\AppleSensorBT.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\BT\\AppleSensorBT.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\BT\\AppleSensorBT.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T11:26:21.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppleBehavior.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Behaviors\\AppleBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GOAP\\Behaviors\\AppleBehavior.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Behaviors\\AppleBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GOAP\\Behaviors\\AppleBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:06:41.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AgentMoveBehaviour.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Behaviors\\AgentMoveBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GOAP\\Behaviors\\AgentMoveBehaviour.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Behaviors\\AgentMoveBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GOAP\\Behaviors\\AgentMoveBehaviour.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv00AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T02:33:54.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IdleTargetSensor.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Sensors\\IdleTargetSensor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI\\GOAP\\Sensors\\IdleTargetSensor.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\AI\\GOAP\\Sensors\\IdleTargetSensor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI\\GOAP\\Sensors\\IdleTargetSensor.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T15:25:28.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NPCDialog.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\NPC\\Dialog\\NPCDialog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NPC\\Dialog\\NPCDialog.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\NPC\\Dialog\\NPCDialog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NPC\\Dialog\\NPCDialog.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:53:03.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\Camera\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraFollow.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\Camera\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:31:09.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\Movement\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement\\PlayerMovement.cs",
+              "ToolTip": "C:\\Pribadi\\GAME AI\\Project\\Whisper of the realm\\Assets\\Scripts\\Movement\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T15:12:44.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+C:\Pribadi\GAME AI\Project\Whisper of the realm\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Pribadi\GAME AI\Project\Whisper of the realm\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 875fbfa2d1734285b353878b31467c98, type: 3}
+  m_Name: EatCapability
+  m_EditorClassIdentifier: 
+  goals:
+  - goal:
+      <Name>k__BackingField: EatGoal
+      <Id>k__BackingField: Eat-25e3f5d1-5b3f-459f-9a50-437f01877988
+    baseCost: 1
+    conditions:
+    - worldKey:
+        <Name>k__BackingField: Hunger
+        <Id>k__BackingField: Hunger-8a1281b5-8aa0-4de6-bae0-abbac7f3bb28
+      comparison: 1
+      amount: 0
+  actions:
+  - action:
+      <Name>k__BackingField: EatAction
+      <Id>k__BackingField: Eat-1be06ed6-78a9-47b3-81b6-fcfa1ac1219a
+    target:
+      <Name>k__BackingField: 
+      <Id>k__BackingField: 
+    properties:
+      rid: 3166435364556505193
+    baseCost: 1
+    stoppingDistance: 0.1
+    validateTarget: 1
+    requiresTarget: 0
+    validateConditions: 1
+    moveMode: 0
+    conditions:
+    - worldKey:
+        <Name>k__BackingField: AppleCount
+        <Id>k__BackingField: AppleCount-6ecadb5e-6491-4a94-96e1-80cbccde4073
+      comparison: 3
+      amount: 1
+    - worldKey:
+        <Name>k__BackingField: Hunger
+        <Id>k__BackingField: Hunger-8a1281b5-8aa0-4de6-bae0-abbac7f3bb28
+      comparison: 3
+      amount: 50
+    effects:
+    - worldKey:
+        <Name>k__BackingField: Hunger
+        <Id>k__BackingField: Hunger-8a1281b5-8aa0-4de6-bae0-abbac7f3bb28
+      effect: 0
+  worldSensors: []
+  targetSensors: []
+  multiSensors:
+  - sensor:
+      <Name>k__BackingField: AppleSensor
+      <Id>k__BackingField: AppleSensor-d68c875d-29c0-43f3-9d79-054d4cc6505d
+  generatorScriptable: {fileID: 11400000, guid: 60d2cf3d291bc2d479dc9e4e29c16636,
+    type: 2}
+  references:
+    version: 2
+    RefIds:
+    - rid: 3166435364556505193
+      type: {class: EmptyActionProperties, ns: CrashKonijn.Agent.Runtime, asm: CrashKonijn.Agent.Runtime}
+      data: 
