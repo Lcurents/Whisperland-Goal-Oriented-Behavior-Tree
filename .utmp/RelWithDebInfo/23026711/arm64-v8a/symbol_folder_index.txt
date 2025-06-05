@@ -1,0 +1,1 @@
+C:\Pribadi\GAME AI\Project\Whisper of the realm\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\23026711\obj\arm64-v8a

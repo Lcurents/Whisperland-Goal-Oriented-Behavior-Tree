@@ -1,0 +1,10 @@
+# ninja log v5
+41	13697	7698109413551833	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	cf84a18e3f846cac
+32	14001	7698109415865328	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	db713703817337a7
+24	14186	7698109418873995	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	7f5cff8ec80f0f6c
+1	14523	7698109421512155	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	6851b5f9656e37a1
+49	15864	7698109435905041	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	291a6d16b6c0c0b0
+15	16745	7698109444294320	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	fc52adf7a025a6e7
+13714	19260	7698109470205429	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	faf636ddc73a692e
+14001	19369	7698109471197611	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	912f17a50fd04d0
+19369	19810	7698109475588438	C:/Pribadi/GAME AI/Project/Whisper of the realm/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/23026711/obj/arm64-v8a/libgame.so	90fd6ebf657aade8

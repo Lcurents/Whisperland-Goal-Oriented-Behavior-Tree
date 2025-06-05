@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0857b2a53377458ebec6c4b1179e3c5a, type: 3}
+  m_Name: GOAPGenerator
+  m_EditorClassIdentifier: 
+  nameSpace: WOTR.Game
+  scripts:
+    goals:
+    - <Name>k__BackingField: EatGoal
+      fullName: WOTR.Game.EatGoal, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Goals/EatGoal.cs
+      <Id>k__BackingField: Eat-25e3f5d1-5b3f-459f-9a50-437f01877988
+    - <Name>k__BackingField: IdleGoal
+      fullName: WOTR.Game.IdleGoal, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Goals/IdleGoal.cs
+      <Id>k__BackingField: Idle-f32bd919-789d-4750-9180-53eb3070cde5
+    - <Name>k__BackingField: PickupAppleGoal
+      fullName: WOTR.Game.PickupAppleGoal, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Goals/PickupAppleGoal.cs
+      <Id>k__BackingField: PickupApple-92d267d7-07cc-46e1-abe8-c662caf3a25a
+    - <Name>k__BackingField: PickupWatermelonGoal
+      fullName: WOTR.Game.PickupWatermelonGoal, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Goals/PickupWatermelonGoal.cs
+      <Id>k__BackingField: PickupWatermelon-edee21a9-3f95-4b69-86e4-d1f42dcc7148
+    actions:
+    - <Name>k__BackingField: CarryWatermelonAction
+      fullName: WOTR.Game.CarryWatermelonAction, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Actions/CarryWatermelonAction.cs
+      <Id>k__BackingField: CarryWatermelon-5ae7585f-9801-4ad8-8d7e-10691defefb1
+    - <Name>k__BackingField: EatAction
+      fullName: WOTR.Game.EatAction, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Actions/EatAction.cs
+      <Id>k__BackingField: Eat-1be06ed6-78a9-47b3-81b6-fcfa1ac1219a
+    - <Name>k__BackingField: GotoWatermelonAction
+      fullName: WOTR.Game.GotoWatermelonAction, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Actions/GotoWatermelonAction.cs
+      <Id>k__BackingField: GotoWatermelon-dda81f8b-7678-491e-b721-fc6cde5891cb
+    - <Name>k__BackingField: IdleAction
+      fullName: WOTR.Game.IdleAction, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Actions/IdleAction.cs
+      <Id>k__BackingField: Idle-ccc6f46c-1626-44aa-b90d-1b2741642166
+    - <Name>k__BackingField: PickupAppleAction
+      fullName: WOTR.Game.PickupAppleAction, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Actions/PickupAppleAction.cs
+      <Id>k__BackingField: PickupApple-2f05cc01-35c2-4367-8db9-fbb561b13cfc
+    - <Name>k__BackingField: StoreWatermelonAction
+      fullName: WOTR.Game.StoreWatermelonAction, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Actions/StoreWatermelonAction.cs
+      <Id>k__BackingField: StoreWatermelon-7d81b6ed-73e5-4bf3-baa1-112f7b5b30d7
+    - <Name>k__BackingField: WaitWatermelonAction
+      fullName: WOTR.Game.WaitWatermelonAction, Assembly-CSharp, Version=0.0.0.0,
+        Culture=neutral, PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Actions/WaitWatermelonAction.cs
+      <Id>k__BackingField: WaitWatermelon-4951ef6a-37d1-4910-83e0-adfdad3e029f
+    worldSensors: []
+    worldKeys:
+    - <Name>k__BackingField: AppleCount
+      fullName: WOTR.Game.AppleCount, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/WorldKeys/AppleCount.cs
+      <Id>k__BackingField: AppleCount-6ecadb5e-6491-4a94-96e1-80cbccde4073
+    - <Name>k__BackingField: Hunger
+      fullName: WOTR.Game.Hunger, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/WorldKeys/Hunger.cs
+      <Id>k__BackingField: Hunger-8a1281b5-8aa0-4de6-bae0-abbac7f3bb28
+    - <Name>k__BackingField: IsIdle
+      fullName: WOTR.Game.IsIdle, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/WorldKeys/IsIdle.cs
+      <Id>k__BackingField: IsIdle-ae4eccf4-1bb7-4603-b028-f28546c8df53
+    targetSensors:
+    - <Name>k__BackingField: IdleTargetSensor
+      fullName: WOTR.Game.IdleTargetSensor, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Sensors/IdleTargetSensor.cs
+      <Id>k__BackingField: IdleTargetSensor-c34e9575-d171-4044-9b83-a91a1c32e214
+    targetKeys:
+    - <Name>k__BackingField: ClosestApple
+      fullName: WOTR.Game.ClosestApple, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/TargetKeys/ClosestApple.cs
+      <Id>k__BackingField: ClosestApple-7e7018e4-73ad-449b-afb3-6ae9f396af3e
+    - <Name>k__BackingField: ClosestWatermelon
+      fullName: WOTR.Game.ClosestWatermelon, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/TargetKeys/ClosestWatermelon.cs
+      <Id>k__BackingField: ClosestWatermelon-53aa9de9-7392-4e35-be88-877f96d3886b
+    - <Name>k__BackingField: IdleTarget
+      fullName: WOTR.Game.IdleTarget, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/TargetKeys/IdleTarget.cs
+      <Id>k__BackingField: IdleTarget-98a2c3dd-8136-4cec-b27b-be0c0a862bd4
+    - <Name>k__BackingField: StorageTarget
+      fullName: WOTR.Game.StorageTarget, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/TargetKeys/StorageTarget.cs
+      <Id>k__BackingField: StorageTarget-c4854be7-3475-42cc-b38a-91d085ebedd9
+    multiSensors:
+    - <Name>k__BackingField: AppleSensor
+      fullName: WOTR.Game.AppleSensor, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Sensors/AppleSensor.cs
+      <Id>k__BackingField: AppleSensor-d68c875d-29c0-43f3-9d79-054d4cc6505d
+    - <Name>k__BackingField: WatermelonSensor
+      fullName: WOTR.Game.WatermelonSensor, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+        PublicKeyToken=null
+      <Path>k__BackingField: Assets/Scripts/AI/GOAP/Sensors/WatermelonSensor.cs
+      <Id>k__BackingField: WatermelonSensor-83b21de9-f3a2-4a41-aeb7-0a2c52b3a9fd
